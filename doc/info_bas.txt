@@ -1,0 +1,38 @@
+src.com.aws.webapp.websoumissionexpert
+
+BitBucket
+team dev
+awswebsoumissionexpertdev
+
+label ssh
+
+Identifiant client de l'application Web
+
+Identifiant client	
+820405782101-qe0tj0hbf6tplc232um7qsc87h39km4b.apps.googleusercontent.com
+
+Code secret du client	
+aXSElz3z88fVxaArLZFKo8jI
+
+URI de redirection	
+https://www.websoumissionexpertdev.com/oauth2callback
+
+Origines JavaScript	
+https://www.websoumissionexpertdev.com
+
+
+
+Identifiant client de l'application Web
+
+Identifiant client	
+820405782101-s9v2i1m8t7ucoju997ubv7p0ojdm4296.apps.googleusercontent.com
+
+Code secret du client	
+ZBw8k1Ps504ozK1vV5VJNJVs
+
+URI de redirection	
+https://www.example.com/oauth2callback
+
+Origines JavaScript	
+https://www.example.com
+

@@ -1,0 +1,3 @@
+# Module websoumissionexpertdev
+# RPC service class, partial path of RPC policy file
+src.com.aws.webapp.websoumissionexpert.Websoumissionexpertdev.client.GreetingService, 2D152FA9FD83903B2AF75E3E6ABAE128.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: src.com.aws.webapp.wse.client.GreetingService
+path: E75B03028F6C04E8CEBBFC7B68322F94.gwt.rpc

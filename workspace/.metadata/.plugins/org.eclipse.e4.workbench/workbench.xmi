@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_-_Y1IT3AEeWhyJ9234Br7A" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_-_Y1Ij3AEeWhyJ9234Br7A" bindingContexts="_-_Y1JD3AEeWhyJ9234Br7A">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;Websoumissionexpertdev.html&quot; tooltip=&quot;websoumissionexpertdev/war/Websoumissionexpertdev.html&quot;>&#xD;&#xA;&lt;persistable path=&quot;/websoumissionexpertdev/war/Websoumissionexpertdev.html&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.google.gwt.eclipse.core.editors.gwtJavaEditor&quot; name=&quot;Websoumissionexpertdev.java&quot; tooltip=&quot;websoumissionexpertdev/src/src/com/aws/webapp/websoumissionexpert/Websoumissionexpertdev/client/Websoumissionexpertdev.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/websoumissionexpertdev/src/src/com/aws/webapp/websoumissionexpert/Websoumissionexpertdev/client/Websoumissionexpertdev.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;Websoumissionexpertdev.html&quot; tooltip=&quot;websoumissionexpertdev/war/Websoumissionexpertdev.html&quot;>&#xD;&#xA;&lt;persistable path=&quot;/websoumissionexpertdev/war/Websoumissionexpertdev.html&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_-_Y1Ij3AEeWhyJ9234Br7A" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_AhfhED3BEeWhyJ9234Br7A" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1024" height="768">
@@ -280,16 +280,10 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_B3sfAD3BEeWhyJ9234Br7A" elementId="org.eclipse.ui.editorss" selectedElement="_B3sfAT3BEeWhyJ9234Br7A">
-      <children xsi:type="basic:PartStack" xmi:id="_B3sfAT3BEeWhyJ9234Br7A" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_uOqQoD3FEeW2lPALlRbOPw">
+      <children xsi:type="basic:PartStack" xmi:id="_B3sfAT3BEeWhyJ9234Br7A" elementId="org.eclipse.e4.primaryDataStack">
         <tags>newtablook</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
-        <children xsi:type="basic:Part" xmi:id="_uOqQoD3FEeW2lPALlRbOPw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Websoumissionexpertdev.html" iconURI="platform:/plugin/org.eclipse.wst.html.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;Websoumissionexpertdev.html&quot; partName=&quot;Websoumissionexpertdev.html&quot; title=&quot;Websoumissionexpertdev.html&quot; tooltip=&quot;websoumissionexpertdev/war/Websoumissionexpertdev.html&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/websoumissionexpertdev/war/Websoumissionexpertdev.html&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2241&quot; selectionTopPixel=&quot;450&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.wst.html.core.htmlsource.source</tags>
-          <tags>removeOnHide</tags>
-        </children>
       </children>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_B6kz4D3BEeWhyJ9234Br7A" elementId="org.eclipse.ui.navigator.ProjectExplorer" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Project Explorer" iconURI="platform:/plugin/org.eclipse.ui.navigator.resources/icons/full/eview16/resource_persp.gif" closeable="true">
@@ -537,11 +531,14 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_A_j9ID3BEeWhyJ9234Br7A" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_7RyARz6XEeWR-Y6kAWP8qw" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="__DrfxD3AEeWhyJ9234Br7A"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_O5kF5z6dEeWJmeQ1EGIStA" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="__DrfxD3AEeWhyJ9234Br7A"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_A_j9IT3BEeWhyJ9234Br7A" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
         <children xsi:type="menu:ToolBarSeparator" xmi:id="_A_j9Ij3BEeWhyJ9234Br7A" elementId="additions" toBeRendered="false"/>
+      </children>
+      <children xsi:type="menu:ToolBar" xmi:id="_r4nEkD6cEeWh_ezOG1nmnw" elementId="org.eclipse.ui.edit.text.actionSet.presentation" visible="false">
+        <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_sndewD3EEeW2lPALlRbOPw" elementId="adt.actionSet.avdManager">
         <tags>Draggable</tags>
@@ -576,7 +573,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_A_j9JT3BEeWhyJ9234Br7A" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_7SE7MD6XEeWR-Y6kAWP8qw" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="__DlYpz3AEeWhyJ9234Br7A"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_O6Ax2T6dEeWJmeQ1EGIStA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="__DlYpz3AEeWhyJ9234Br7A"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_A_j9Jj3BEeWhyJ9234Br7A" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>

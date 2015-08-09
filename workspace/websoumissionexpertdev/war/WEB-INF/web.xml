@@ -8,7 +8,7 @@
   <!-- Servlets -->
   <servlet>
     <servlet-name>greetServlet</servlet-name>
-    <servlet-class>src.com.aws.webapp.websoumissionexpert.Websoumissionexpertdev.server.GreetingServiceImpl</servlet-class>
+    <servlet-class>src.com.aws.webapp.wse.server.GreetingServiceImpl</servlet-class>
   </servlet>
   
   <servlet-mapping>

@@ -1,5 +1,9 @@
 src.com.aws.webapp.websoumissionexpert
 
+GitHub
+awswebsoumissionexpertdev
+awswebsoumissionexpertdev
+
 BitBucket
 team dev
 awswebsoumissionexpertdev
@@ -36,3 +40,7 @@ https://www.example.com/oauth2callback
 Origines JavaScript	
 https://www.example.com
 
+// ----------------------------------------------------------------------------------------------
+GIT COMMIT COMMENT
+
+WSE-INIT-PROJECT-00001
